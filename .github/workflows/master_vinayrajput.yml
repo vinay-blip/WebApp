@@ -53,4 +53,4 @@ jobs:
           app-name: 'VinayRajput'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00AA17B189454AEA8B8E020E6E33E8F5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97794289588C4C4BA69C5E072682D6FD }}
